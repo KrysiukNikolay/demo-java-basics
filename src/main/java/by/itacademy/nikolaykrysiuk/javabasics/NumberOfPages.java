@@ -1,5 +1,5 @@
 package by.itacademy.nikolaykrysiuk.javabasics;
-import javax.sound.midi.Soundbank;
+
 import java.util.Scanner;
 public class NumberOfPages {
     public static void main(String[] args) {
